@@ -1,0 +1,6 @@
+# Ignorer les fichiers natifs pour les statistiques GitHub
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+ios/** linguist-vendored
+android/** linguist-vendored
